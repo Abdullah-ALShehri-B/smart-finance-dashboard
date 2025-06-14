@@ -49,18 +49,7 @@ npm run dev
 
 ---
 
-## 📷 Screenshots
 
-> 🎥 Dashboard View
-> ![Dashboard](screenshots/dashboard.png)
-
-> 🧾 Login Page
-> ![Login](screenshots/login.png)
-
-> 🧠 AI Chat Assistant
-> ![AI Chat](screenshots/ai-chat.png)
-
----
 
 ## ✨ Future Enhancements
 
